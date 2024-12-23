@@ -1,0 +1,318 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1320px;
+    margin:auto;
+}
+.navbar{
+    max-width: 1440px;
+    margin:auto;
+}
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.suit{
+    padding:5px 10px;
+    font-size: 16px;
+    font-family: 'Lato';
+    text-decoration: none;
+    color:black;
+    display: flex;
+    background-color: gainsboro;
+}
+.p-20{
+    padding: 20px;
+}
+.container-fluid{
+   margin: auto;
+    width: 100%;
+}
+.w-5 img{
+    width:150px;
+    padding-top:20px ;
+}
+.suit a{
+    text-decoration: none;
+    color:black;
+    font-size: 14px;
+    font-family: "Lato";
+    padding: 5px;
+}
+.suit a:hover{
+    border-bottom: 2px solid purple;
+    background-color: pink;
+}
+.fa-magnifying-glass {
+    text-decoration: none;
+    color:black;
+    font-size: 25px;
+}
+.fa-user{
+    color:black;
+    padding-left: 10px;
+    font-size: 25px;
+}
+.fa-cart-shopping{
+    color:black;
+    padding-left: 10px;
+    font-size: 25px;
+}
+.bt button{
+    padding: 20px;
+}
+.spot{
+    border: 1px solid red;
+}
+.spot img{
+    width: 100%;
+}
+.img2{
+    width:100%;
+    background-image: url(img/img4.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img2 img:hover{
+    opacity: 0;
+}
+.img2 img{
+    width: 100%;
+}
+.text a{
+    text-decoration: none;
+    color:black;
+    margin: 0px 0px 10px 0px;
+    color: #555;
+    font-family: "lato";
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 1.3;
+}
+.price{
+    color: #555;
+    font-family: "lato";
+    font-size: 16px;
+}
+.img3{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img6.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img3 img:hover{
+    opacity: 0;
+}
+.img3 img{
+    width: 100%;
+}
+.img4{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img8.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img4 img:hover{
+    opacity: 0;
+}
+.img4 img{
+    width: 100%;
+}
+.img5{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img10.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img5 img:hover{
+    opacity: 0;
+}
+.img5 img{
+    width: 100%;
+}
+.img6{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img12.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img6 img:hover{
+    opacity: 0;
+}
+.img6 img{
+    width: 100%;
+}
+.img7{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img14.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img7 img:hover{
+    opacity: 0;
+}
+.img7 img{
+    width: 100%;
+}
+.img8{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img16.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img8 img:hover{
+    opacity: 0;
+}
+.img8 img{
+    width: 100%;
+}
+.img9{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img18.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img9 img:hover{
+    opacity: 0;
+}
+.img9 img{
+    width: 100%;
+}
+.img10{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img20.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img10 img:hover{
+    opacity: 0;
+}
+.img10 img{
+    width: 100%;
+}
+.img11{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img22.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img11 img:hover{
+    opacity: 0;
+}
+.img11 img{
+    width: 100%;
+}
+.img12{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img24.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img12 img:hover{
+    opacity: 0;
+}
+.img12 img{
+    width: 100%;
+}
+.img13{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img26.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img13 img:hover{
+    opacity: 0;
+}
+.img13 img{
+    width: 100%;
+}
+.img14{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img28.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img14 img:hover{
+    opacity: 0;
+}
+.img14 img{
+    width: 100%;
+}
+.img15{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img30.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img15 img:hover{
+    opacity: 0;
+}
+.img15 img{
+    width: 100%;
+}
+.img16{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img32.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img16 img:hover{
+    opacity: 0;
+}
+.img16 img{
+    width: 100%;
+}
+.img17{
+    width: 100%;
+    width:100%;
+    background-image: url(img/img34.webp);
+    height: 100%;
+    background-size: contain;
+}
+.img17 img:hover{
+    opacity: 0;
+}
+.img17 img{
+    width: 100%;
+}
+.details{
+    
+    padding: 20px;
+    max-width: 1320px;
+    margin:auto;
+}
+
+.about{
+    font-size: 14px;
+    font-family: 'Noto Sans', sans-serif;
+     
+}
+.us{
+    padding-bottom: 10px;
+    color:white;
+    font-size: 26px;
+    margin:auto;
+}
+.company a{
+    text-decoration: none;
+    color:white;
+    line-height: 1.8;
+}
